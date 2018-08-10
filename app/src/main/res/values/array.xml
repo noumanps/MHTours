@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="beach_names">
+        <item>@string/murud</item>
+        <item>@string/velas</item>
+        <item>@string/ganapatipule</item>
+        <item>@string/shrivardhan</item>
+        <item>@string/bordi</item>
+        <item>@string/diveagar</item>
+        <item>@string/guhagar</item>
+        <item>@string/velneshwar</item>
+        <item>@string/harihareshwar</item>
+        <item>@string/vengurla</item>
+        <item>@string/kihim</item>
+        <item>@string/tarkarli</item>
+        <item>@string/shiroda</item>
+    </array>
+
+    <integer-array name="beach_images">
+        <item>@drawable/murud</item>
+        <item>@drawable/velasbeachthumb</item>
+        <item>@drawable/ganpatipule</item>
+        <item>@drawable/shrivardhan</item>
+        <item>@drawable/bordidahanu</item>
+        <item>@drawable/diveagar</item>
+        <item>@drawable/guhagar</item>
+        <item>@drawable/velneshwar</item>
+        <item>@drawable/harihareshwar</item>
+        <item>@drawable/vengurla</item>
+        <item>@drawable/kihim</item>
+        <item>@drawable/tarkarli</item>
+        <item>@drawable/shiroda</item>
+    </integer-array>
+
+    <array name="beach_urls">
+        <item>@string/murud_url</item>
+        <item>@string/velas_url</item>
+        <item>@string/ganapatipule_url</item>
+        <item>@string/shrivardhan_url</item>
+        <item>@string/bordi_url</item>
+        <item>@string/diveagar_url</item>
+        <item>@string/guhagar_url</item>
+        <item>@string/velneshwar_url</item>
+        <item>@string/harihareshwar_url</item>
+        <item>@string/vengurla_url</item>
+        <item>@string/kihim_url</item>
+        <item>@string/tarkarli_url</item>
+        <item>@string/shiroda_url</item>
+    </array>
+
+    <array name="cave_names">
+        <item>@string/ajanta</item>
+        <item>@string/karla_bhaje</item>
+        <item>@string/elephanta</item>
+        <item>@string/ellora</item>
+        <item>@string/kuda</item>
+        <item>@string/mangi_tungi</item>
+        <item>@string/pitalkhora</item>
+        <item>@string/mumbai_caves</item>
+    </array>
+
+    <integer-array name="cave_images">
+        <item>@drawable/ajanta</item>
+        <item>@drawable/karlabhaje</item>
+        <item>@drawable/elephanta</item>
+        <item>@drawable/ellora</item>
+        <item>@drawable/kuda</item>
+        <item>@drawable/mangitungi</item>
+        <item>@drawable/pithalkhore</item>
+        <item>@drawable/mumbaicaves</item>
+    </integer-array>
+
+    <array name="cave_urls">
+        <item>@string/ajanta_url</item>
+        <item>@string/karla_bhaje_url</item>
+        <item>@string/elephanta_url</item>
+        <item>@string/ellora_url</item>
+        <item>@string/kuda_url</item>
+        <item>@string/mangi_tungi_url</item>
+        <item>@string/pitalkhora_url</item>
+        <item>@string/mumbai_caves_url</item>
+    </array>
+
+    <array name="fort_names">
+        <item>@string/pratapgad</item>
+        <item>@string/shivneri</item>
+        <item>@string/lohagad</item>
+        <item>@string/rajmachi</item>
+        <item>@string/daultabadfort</item>
+        <item>@string/janjira</item>
+        <item>@string/korlai</item>
+        <item>@string/narnala</item>
+        <item>@string/vijaydurg</item>
+        <item>@string/sindhudurg</item>
+        <item>@string/panhala</item>
+        <item>@string/suverndurg</item>
+        <item>@string/mahuli</item>
+        <item>@string/vasai</item>
+        <item>@string/gavilgad</item>
+        <item>@string/arnala</item>
+        <item>@string/sion</item>
+        <item>@string/talgad</item>
+        <item>@string/avchitgad</item>
+        <item>@string/ghosalgad</item>
+        <item>@string/hirakot</item>
+        <item>@string/birwadi</item>
+        <item>@string/chandragadfort</item>
+        <item>@string/surgad</item>
+        <item>@string/chandrapurfort</item>
+        <item>@string/jaigadfort</item>
+        <item>@string/raigadfort</item>
+    </array>
+
+    <integer-array name="fort_images">
+        <item>@drawable/pratapgad</item>
+        <item>@drawable/shivnari</item>
+        <item>@drawable/lohgad</item>
+        <item>@drawable/rajmachi</item>
+        <item>@drawable/daulatabad</item>
+        <item>@drawable/janjira</item>
+        <item>@drawable/korlai</item>
+        <item>@drawable/narnala</item>
+        <item>@drawable/vijaydurg</item>
+        <item>@drawable/sindhudurg</item>
+        <item>@drawable/panhala</item>
+        <item>@drawable/suverndurg</item>
+        <item>@drawable/mahuli</item>
+        <item>@drawable/vasai</item>
+        <item>@drawable/gavilgad</item>
+        <item>@drawable/arnala</item>
+        <item>@drawable/sion</item>
+        <item>@drawable/talgad</item>
+        <item>@drawable/avchi</item>
+        <item>@drawable/ghosalgad</item>
+        <item>@drawable/hirakot</item>
+        <item>@drawable/birwadi</item>
+        <item>@drawable/chandragad</item>
+        <item>@drawable/balapur</item>
+        <item>@drawable/kolaba</item>
+        <item>@drawable/surgad</item>
+        <item>@drawable/chandrapur</item>
+        <item>@drawable/jaigad</item>
+        <item>@drawable/raigad</item>
+    </integer-array>
+
+    <!-- Forts Url -->
+    <array name="fort_urls">
+        <item>@string/pratapgad_url</item>
+        <item>@string/shivneri_url</item>
+        <item>@string/lohagad_url</item>
+        <item>@string/rajmachi_url</item>
+        <item>@string/daultabadfort_url</item>
+        <item>@string/janjira_url</item>
+        <item>@string/korlai_url</item>
+        <item>@string/narnala_url</item>
+        <item>@string/vijaydurg_url</item>
+        <item>@string/sindhudurg_url</item>
+        <item>@string/panhala_url</item>
+        <item>@string/suverndurg_url</item>
+        <item>@string/mahuli_url</item>
+        <item>@string/vasai_url</item>
+        <item>@string/gavilgad_url</item>
+        <item>@string/arnala_url</item>
+        <item>@string/sion_url</item>
+        <item>@string/talgad_url</item>
+        <item>@string/avchitgad_url</item>
+        <item>@string/ghosalgad_url</item>
+        <item>@string/hirakot_url</item>
+        <item>@string/birwadi_url</item>
+        <item>@string/chandragadfort_url</item>
+        <item>@string/surgad_url</item>
+        <item>@string/chandrapurfort_url</item>
+        <item>@string/jaigadfort_url</item>
+        <item>@string/raigadfort_url</item>
+    </array>
+
+    <!-- Museum Names -->
+    <array name="museum_names">
+        <item>@string/chhatrapati</item>
+        <item>@string/dr_bhau</item>
+        <item>@string/raja_dinkar</item>
+        <item>@string/nagpur_central</item>
+        <item>@string/kolhapur_town</item>
+        <item>@string/rbi_monetary</item>
+        <item>@string/mani_bhavan</item>
+        <item>@string/taraporewala</item>
+    </array>
+
+    <!-- Museum Images -->
+    <integer-array name="museum_images">
+        <item>@drawable/chhatrapati</item>
+        <item>@drawable/drbhau</item>
+        <item>@drawable/kelkar</item>
+        <item>@drawable/nagpur</item>
+        <item>@drawable/kolhapur</item>
+        <item>@drawable/rbi</item>
+        <item>@drawable/mani</item>
+        <item>@drawable/aquarium</item>
+    </integer-array>
+
+    <!-- Museum Urls -->
+    <array name="museum_urls">
+        <item>@string/chhatrapati_url</item>
+        <item>@string/dr_bhau_url</item>
+        <item>@string/raja_dinkar_url</item>
+        <item>@string/nagpur_central_url</item>
+        <item>@string/kolhapur_town_url</item>
+        <item>@string/rbi_monetary_url</item>
+        <item>@string/mani_bhavan_url</item>
+        <item>@string/taraporewala_url</item>
+    </array>
+</resources>

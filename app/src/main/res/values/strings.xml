@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">MHTours</string>
+
+    <!-- Category Names -->
+    <string name="category_beach">Beaches</string>
+    <string name="category_caves">Caves</string>
+    <string name="category_forts">Forts</string>
+    <string name="category_museums">Museums</string>
+
+    <!-- Beach Names -->
+    <string name="murud">Harnai-Murud</string>
+    <string name="velas">Velas Beach</string>
+    <string name="ganapatipule">Ganapatipule</string>
+    <string name="shrivardhan">Shrivardhan Beach</string>
+    <string name="bordi">Bordi Dahanu</string>
+    <string name="diveagar">Diveagar</string>
+    <string name="guhagar">Guhagar</string>
+    <string name="velneshwar">Velneshwar</string>
+    <string name="harihareshwar">Harihareshwar Beach</string>
+    <string name="vengurla">Vengurla</string>
+    <string name="kihim">Kihim</string>
+    <string name="tarkarli">Tarkarli</string>
+    <string name="shiroda">Shiroda Beach</string>
+
+    <!-- Beach Urls -->
+    <string name="murud_url">https://www.maharashtratourism.gov.in/treasures/beach/harnai-murud</string>
+    <string name="velas_url">https://www.maharashtratourism.gov.in/treasures/beach/velas</string>
+    <string name="ganapatipule_url">https://www.maharashtratourism.gov.in/treasures/beach/ganapatipule</string>
+    <string name="shrivardhan_url">https://www.maharashtratourism.gov.in/treasures/beach/shrivardhan</string>
+    <string name="bordi_url">https://www.maharashtratourism.gov.in/treasures/beach/bordi-dahanu</string>
+    <string name="diveagar_url">https://www.maharashtratourism.gov.in/treasures/beach/diveagar</string>
+    <string name="guhagar_url">https://www.maharashtratourism.gov.in/treasures/beach/guhagar</string>
+    <string name="velneshwar_url">https://www.maharashtratourism.gov.in/treasures/beach/velneshwar-beach</string>
+    <string name="harihareshwar_url">https://www.maharashtratourism.gov.in/treasures/beach/harihareshwar-beach</string>
+    <string name="vengurla_url">https://www.maharashtratourism.gov.in/treasures/beach/vengurla</string>
+    <string name="kihim_url">https://www.maharashtratourism.gov.in/treasures/beach/kihim</string>
+    <string name="tarkarli_url">https://www.maharashtratourism.gov.in/treasures/beach/tarkarli</string>
+    <string name="shiroda_url">https://www.maharashtratourism.gov.in/treasures/beach/shiroda-beach</string>
+
+    <!-- Caves Names -->
+    <string name="ajanta">Ajanta</string>
+    <string name="karla_bhaje">Karla, Bhaje and Bedse </string>
+    <string name="elephanta">Elephanta Cave</string>
+    <string name="ellora">Ellora Cave</string>
+    <string name="kuda">Kuda</string>
+    <string name="mangi_tungi">Mangi Tungi Hills</string>
+    <string name="pitalkhora">Pitalkhora</string>
+    <string name="mumbai_caves">Caves Of Mumbai</string>
+
+    <!-- Caves Urls -->
+    <string name="ajanta_url">https://www.maharashtratourism.gov.in/treasures/cave/ajanta</string>
+    <string name="karla_bhaje_url">https://www.maharashtratourism.gov.in/treasures/cave/karla-bhaje-bedse-caves</string>
+    <string name="elephanta_url">https://www.maharashtratourism.gov.in/treasures/cave/elephanta-cave</string>
+    <string name="ellora_url">https://www.maharashtratourism.gov.in/treasures/cave/ellora-cave</string>
+    <string name="kuda_url">https://www.maharashtratourism.gov.in/treasures/cave/kuda</string>
+    <string name="mangi_tungi_url">https://www.maharashtratourism.gov.in/treasures/cave/mangi-tungi-hills</string>
+    <string name="pitalkhora_url">https://www.maharashtratourism.gov.in/treasures/cave/pitalkhora</string>
+    <string name="mumbai_caves_url">https://www.maharashtratourism.gov.in/treasures/cave/caves-of-mumbai</string>
+
+    <!-- Forts Name -->
+    <string name="pratapgad">Pratapgad</string>
+    <string name="shivneri">Shivneri</string>
+    <string name="lohagad">Lohagad Visapur</string>
+    <string name="rajmachi">Rajmachi Fort</string>
+    <string name="daultabadfort">Daultabad (Devigiri) Fort</string>
+    <string name="janjira">Janjira Fort</string>
+    <string name="korlai">Korlai Fort</string>
+    <string name="narnala">Narnala</string>
+    <string name="vijaydurg">Vijaydurg</string>
+    <string name="sindhudurg">Sindhudurg Fort</string>
+    <string name="panhala">Panhala Fort</string>
+    <string name="suverndurg">Suverndurg Fort</string>
+    <string name="mahuli">Mahuli Fort</string>
+    <string name="vasai">Vasai Fort</string>
+    <string name="gavilgad">Gavilgad Fort</string>
+    <string name="arnala">Arnala Fort</string>
+    <string name="sion">Sion Fort</string>
+    <string name="talgad">Talgad Fort</string>
+    <string name="avchitgad">Avchitgad</string>
+    <string name="ghosalgad">Ghosalgad</string>
+    <string name="hirakot">Hirakot Fort</string>
+    <string name="birwadi">Birwadi Fort</string>
+    <string name="chandragadfort">Chandragad Fort</string>
+    <string name="balapur">Balapur Fort</string>
+    <string name="kolaba">Kolaba Fort</string>
+    <string name="surgad">Surgad Fort</string>
+    <string name="chandrapurfort">Chandrapur Fort</string>
+    <string name="jaigadfort">Jaigad Fort</string>
+    <string name="raigadfort">Raigad Fort</string>
+
+    <!-- Forts Urls -->
+    <string name="pratapgad_url">https://www.maharashtratourism.gov.in/treasures/fort/pratapgad</string>
+    <string name="shivneri_url">https://www.maharashtratourism.gov.in/treasures/fort/shivneri</string>
+    <string name="lohagad_url">https://www.maharashtratourism.gov.in/treasures/fort/lohgad-visapur</string>
+    <string name="rajmachi_url">https://www.maharashtratourism.gov.in/treasures/fort/rajmachi-fort</string>
+    <string name="daultabadfort_url">https://www.maharashtratourism.gov.in/treasures/fort/daultabad-fort</string>
+    <string name="janjira_url">https://www.maharashtratourism.gov.in/treasures/fort/janjira-fort</string>
+    <string name="korlai_url">https://www.maharashtratourism.gov.in/treasures/fort/korlai-fort</string>
+    <string name="narnala_url">https://www.maharashtratourism.gov.in/treasures/fort/narnala</string>
+    <string name="vijaydurg_url">https://www.maharashtratourism.gov.in/treasures/fort/vijaydurg</string>
+    <string name="sindhudurg_url">https://www.maharashtratourism.gov.in/treasures/fort/sindhudurg-fort</string>
+    <string name="panhala_url">https://www.maharashtratourism.gov.in/treasures/fort/panhala-fort</string>
+    <string name="suverndurg_url">https://www.maharashtratourism.gov.in/treasures/fort/suverndurg-fort</string>
+    <string name="mahuli_url">https://www.maharashtratourism.gov.in/treasures/fort/mahuli-fort</string>
+    <string name="vasai_url">https://www.maharashtratourism.gov.in/treasures/fort/vasai-fort</string>
+    <string name="gavilgad_url">https://www.maharashtratourism.gov.in/treasures/fort/gavilgad-fort</string>
+    <string name="arnala_url">https://www.maharashtratourism.gov.in/treasures/fort/arnala-fort</string>
+    <string name="sion_url">https://www.maharashtratourism.gov.in/treasures/fort/sion-fort</string>
+    <string name="talgad_url">https://www.maharashtratourism.gov.in/treasures/fort/talgad-fort</string>
+    <string name="avchitgad_url">https://www.maharashtratourism.gov.in/treasures/fort/avchitgad-fort</string>
+    <string name="ghosalgad_url">https://www.maharashtratourism.gov.in/treasures/fort/ghosalgad</string>
+    <string name="hirakot_url">https://www.maharashtratourism.gov.in/treasures/fort/hirakot-fort</string>
+    <string name="birwadi_url">https://www.maharashtratourism.gov.in/treasures/fort/birwadi</string>
+    <string name="chandragadfort_url">https://www.maharashtratourism.gov.in/treasures/fort/chandragad</string>
+    <string name="balapur_url">https://www.maharashtratourism.gov.in/treasures/fort/balapur</string>
+    <string name="kolaba_url">https://www.maharashtratourism.gov.in/treasures/fort/kolaba-fort</string>
+    <string name="surgad_url">https://www.maharashtratourism.gov.in/treasures/fort/surgad</string>
+    <string name="chandrapurfort_url">https://www.maharashtratourism.gov.in/treasures/fort/chandrapur-fort</string>
+    <string name="jaigadfort_url">https://www.maharashtratourism.gov.in/treasures/fort/jaigad</string>
+    <string name="raigadfort_url">https://www.maharashtratourism.gov.in/treasures/fort/raigad-fort</string>
+
+    <!-- Museums Names-->
+    <string name="chhatrapati">Chhatrapati Shivaji</string>
+    <string name="dr_bhau">Dr. Bhau Daji Lad</string>
+    <string name="raja_dinkar">Raja Dinkar Kelkar</string>
+    <string name="nagpur_central">Nagpur Central Museum</string>
+    <string name="kolhapur_town">Kolhapur Town Hall</string>
+    <string name="rbi_monetary">RBI Monetary Museum</string>
+    <string name="mani_bhavan">Mani Bhavan Mahatma</string>
+    <string name="taraporewala">Taraporewala Aquarium</string>
+
+    <!-- Museums Urls-->
+    <string name="chhatrapati_url">https://www.maharashtratourism.gov.in/treasures/museum/Chhatrapati-Shivaji-Maharaj-Vastu-Sangrahalaya</string>
+    <string name="dr_bhau_url">https://www.maharashtratourism.gov.in/treasures/museum/dr.-bhau-daji-lad-mumbai-city-museum</string>
+    <string name="raja_dinkar_url">https://www.maharashtratourism.gov.in/treasures/museum/raja-dinkar-kelkar-museum</string>
+    <string name="nagpur_central_url">https://www.maharashtratourism.gov.in/treasures/museum/nagpur-central-museum</string>
+    <string name="kolhapur_town_url">https://www.maharashtratourism.gov.in/treasures/museum/kolhapur-town-hall-museum</string>
+    <string name="rbi_monetary_url">https://www.maharashtratourism.gov.in/treasures/museum/rbi-monetary-museum</string>
+    <string name="mani_bhavan_url">https://www.maharashtratourism.gov.in/treasures/museum/mani-bhavan-mahatma-gandhi-museum</string>
+    <string name="taraporewala_url">https://www.maharashtratourism.gov.in/treasures/museum/taraporewala-aquarium</string>
+</resources>
